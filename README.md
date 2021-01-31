@@ -31,8 +31,9 @@
 * 빅데이터마이닝:머신러닝(손대순)
 * 빅데이터응용(임성훈)
 * 영상처리프로그래밍(김백섭)
-* 빅데이터캡스톤디자인(고영웅)
 * 딥러닝기초(임성훈)
+* 빅데이터캡스톤디자인(고영웅)
+
 
 ### <Graduate  Courses @<a href=https://www.hallym.ac.kr target="_blank">Hallym University</a>, South Korea>
 * 고급정보보호(조효진)
