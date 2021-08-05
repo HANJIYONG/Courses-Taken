@@ -46,3 +46,10 @@
 * 고급전산학특강(김태운)
 
 
+### <Teaching Assistant  @<a href=https://www.hallym.ac.kr target="_blank">Hallym University</a>, South Korea>
+* 인공지능수학(임성훈)
+* 클라우드 컴퓨팅(김태운)
+* 인공지능(임성훈)
+* 딥러닝 기초(임성훈)
+* 운영체제(노원종)
+* 디지털통신(노원종)
